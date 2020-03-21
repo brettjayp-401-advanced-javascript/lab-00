@@ -13,7 +13,10 @@
 #### Documentation
 - [jsdoc](https://brettjayp-lab-00.herokuapp.com/docs/)
 
-### Setup
+#### Modules
+- $pol.js
+
+#### Setup
 
 #### `.env` requirements (where applicable)
 
