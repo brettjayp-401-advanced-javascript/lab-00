@@ -13,3 +13,4 @@ describe('proof of life', () => {
   });
 
 });
+
